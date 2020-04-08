@@ -1,0 +1,7 @@
+E:\Visual Studio Projects\C#\Dmessage\Dmessage\bin\Debug\Dmessage.exe.config
+E:\Visual Studio Projects\C#\Dmessage\Dmessage\bin\Debug\Dmessage.exe
+E:\Visual Studio Projects\C#\Dmessage\Dmessage\bin\Debug\Dmessage.pdb
+E:\Visual Studio Projects\C#\Dmessage\Dmessage\obj\Debug\Dmessage.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#\Dmessage\Dmessage\obj\Debug\Dmessage.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C#\Dmessage\Dmessage\obj\Debug\Dmessage.exe
+E:\Visual Studio Projects\C#\Dmessage\Dmessage\obj\Debug\Dmessage.pdb
